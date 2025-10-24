@@ -35,8 +35,6 @@ uv run main.py
 uv sync
 ```
 
-```
-```
 2- Second, change virtual environment:
 ```bash 
 source .venv/bin/activate
